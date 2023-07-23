@@ -41,18 +41,29 @@
 // -3 -> нет
 // 7 -> нет
 
-Console.Write("Введите число: ");
-int number = int.Parse(Console.ReadLine()!);
-int num= number % 2;
-if (num== 0)
-{
- Console.WriteLine("Четное");
- }
- else Console.WriteLine("Нечетное");
-
-
+// Console.Write("Введите число: ");
+// int number = int.Parse(Console.ReadLine()!);
+// int num= number % 2;
+// if (num== 0)
+// {
+//  Console.WriteLine("Четное");
+//  }
+//  else Console.WriteLine("Нечетное");
 
 
 // Задача 4: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 // 5 -> 2, 4
 // 8 -> 2, 4, 6, 8
+
+Console.Write("Введите число: ");
+int number = int.Parse(Console.ReadLine()!);
+
+int num2= 1;
+
+while (num2 <= number) {
+    if (num2%2==0)
+   
+    Console.Write($"{num2}");
+     num2++;
+} 
+    
