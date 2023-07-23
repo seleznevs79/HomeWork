@@ -1,0 +1,15 @@
+C:\ССП\GB\4_Языки программирования\семинар 1\ДЗ1\bin\Debug\net7.0\ДЗ1.exe
+C:\ССП\GB\4_Языки программирования\семинар 1\ДЗ1\bin\Debug\net7.0\ДЗ1.deps.json
+C:\ССП\GB\4_Языки программирования\семинар 1\ДЗ1\bin\Debug\net7.0\ДЗ1.runtimeconfig.json
+C:\ССП\GB\4_Языки программирования\семинар 1\ДЗ1\bin\Debug\net7.0\ДЗ1.dll
+C:\ССП\GB\4_Языки программирования\семинар 1\ДЗ1\bin\Debug\net7.0\ДЗ1.pdb
+C:\ССП\GB\4_Языки программирования\семинар 1\ДЗ1\obj\Debug\net7.0\ДЗ1.csproj.AssemblyReference.cache
+C:\ССП\GB\4_Языки программирования\семинар 1\ДЗ1\obj\Debug\net7.0\ДЗ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ССП\GB\4_Языки программирования\семинар 1\ДЗ1\obj\Debug\net7.0\ДЗ1.AssemblyInfoInputs.cache
+C:\ССП\GB\4_Языки программирования\семинар 1\ДЗ1\obj\Debug\net7.0\ДЗ1.AssemblyInfo.cs
+C:\ССП\GB\4_Языки программирования\семинар 1\ДЗ1\obj\Debug\net7.0\ДЗ1.csproj.CoreCompileInputs.cache
+C:\ССП\GB\4_Языки программирования\семинар 1\ДЗ1\obj\Debug\net7.0\ДЗ1.dll
+C:\ССП\GB\4_Языки программирования\семинар 1\ДЗ1\obj\Debug\net7.0\refint\ДЗ1.dll
+C:\ССП\GB\4_Языки программирования\семинар 1\ДЗ1\obj\Debug\net7.0\ДЗ1.pdb
+C:\ССП\GB\4_Языки программирования\семинар 1\ДЗ1\obj\Debug\net7.0\ДЗ1.genruntimeconfig.cache
+C:\ССП\GB\4_Языки программирования\семинар 1\ДЗ1\obj\Debug\net7.0\ref\ДЗ1.dll
